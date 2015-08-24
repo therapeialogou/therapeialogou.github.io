@@ -1,0 +1,120 @@
+UNKNOWN {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana
+}
+BODY {
+	MARGIN: 0px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+INPUT.TextBox {
+	BORDER-RIGHT: #a5a5a5 1px solid; BORDER-TOP: #a5a5a5 1px solid; BORDER-LEFT: #a5a5a5 1px solid; BORDER-BOTTOM: #a5a5a5 1px solid
+}
+INPUT.btn {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+SELECT.DropDowns {
+	BORDER-RIGHT: #a5a5a5 1px solid; BORDER-TOP: #a5a5a5 1px solid; BORDER-LEFT: #a5a5a5 1px solid; BORDER-BOTTOM: #a5a5a5 1px solid
+}
+SELECT.DropDowns OPTION {
+	BORDER-BOTTOM: 1px solid
+}
+.LabelForRequiredField {
+	FONT-WEIGHT: bold; COLOR: #3c3c3c; FONT-STYLE: normal
+}
+#mainTable {
+	MARGIN: 0px auto; WIDTH: 875px; TEXT-ALIGN: left
+}
+#topDiv {
+	CLEAR: both; PADDING-RIGHT: 0px; MIN-WIDTH: 80px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(AxeonGraphics/Logo.png); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #ffffff 1px solid; BACKGROUND-REPEAT: no-repeat; HEIGHT: 80px; BACKGROUND-COLOR: #ff9933
+}
+#logout {
+	PADDING-RIGHT: 2px; POSITION: relative; TOP: 30px; TEXT-ALIGN: right
+}
+#logout A {
+	COLOR: black
+}
+#menuLine {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 218px; PADDING-TOP: 0px; HEIGHT: 20px; BACKGROUND-COLOR: #cccccc
+}
+#mainBodyFullScreen {
+	MARGIN-TOP: 10px; MIN-HEIGHT: 500px; HEIGHT: 500px
+}
+DIV.mainBodyBackground {
+	MIN-HEIGHT: 500px; BACKGROUND-IMAGE: url(AxeonGraphics/bg.gif); HEIGHT: 500px
+}
+#DateLine {
+	BORDER-TOP-WIDTH: 0px; CLEAR: both; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN-LEFT: 218px; COLOR: #99ccff; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px
+}
+#blueLine {
+	CLEAR: both; MARGIN-LEFT: 218px; BORDER-BOTTOM: #99ccff 1px solid; TEXT-ALIGN: right
+}
+#footer {
+	CLEAR: both; BORDER-TOP: #000000 1px solid; TEXT-ALIGN: center
+}
+.flatInput {
+	BORDER-RIGHT: #d4d0c8 1px solid; BORDER-TOP: #808080 1px solid; PADDING-LEFT: 11px; BACKGROUND: url(Images/bg_arrow.gif) #fff no-repeat; BORDER-LEFT: #808080 1px solid; BORDER-BOTTOM: #d4d0c8 1px solid
+}
+.flatInput:unknown {
+	BORDER-RIGHT: #666 1px solid; BORDER-TOP: #666 1px solid; PADDING-LEFT: 11px; BACKGROUND: url(Images/bg_arrow.gif) #f7ecd4 no-repeat; BORDER-LEFT: #666 1px solid; BORDER-BOTTOM: #666 1px solid
+}
+#applicationFormTab {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 93%; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; LINE-HEIGHT: normal; PADDING-TOP: 0px
+}
+#applicationFormTab UL {
+	PADDING-RIGHT: 10px; DISPLAY: inline; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 10px; LIST-STYLE-TYPE: none
+}
+#applicationFormTab LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 9px; BACKGROUND: url(left.gif) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #000000 1px solid
+}
+#applicationFormTab A {
+	PADDING-RIGHT: 15px; DISPLAY: block; PADDING-LEFT: 6px; FONT-WEIGHT: bold; BACKGROUND: url(right.gif) no-repeat right top; FLOAT: left; PADDING-BOTTOM: 4px; COLOR: #765; PADDING-TOP: 5px; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+#applicationFormTab A {
+	FLOAT: none
+}
+#applicationFormTab A:hover {
+	COLOR: #333
+}
+#applicationFormTab #current {
+	BACKGROUND-IMAGE: url(left_on.gif)
+}
+#applicationFormTab #current A {
+	BACKGROUND-IMAGE: url(right_on.gif); COLOR: #333
+}
+#MultiTabView {
+	CLEAR: both; WIDTH: 100%
+}
+DIV.DataListItem {
+	CLEAR: both; BORDER-RIGHT: silver 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: silver 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: silver 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: silver 1px solid
+}
+DIV.row {
+	CLEAR: both; PADDING-BOTTOM: 5px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+DIV.row SPAN.label {
+	FLOAT: left; VERTICAL-ALIGN: middle; WIDTH: 200px
+}
+DIV.row SPAN.formw {
+	PADDING-LEFT: 10px; VERTICAL-ALIGN: middle
+}
+DIV.ApplicationHeaderRow {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #f2f2f2
+}
+#PrintHeader {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; TEXT-ALIGN: left
+}
+#PrintBody {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px
+}
+DIV.PrintoutGroup {
+	BORDER-RIGHT: silver thin solid; BORDER-TOP: silver thin solid; PADDING-BOTTOM: 20px; BORDER-LEFT: silver thin solid; BORDER-BOTTOM: silver thin solid
+}
+DIV.PrintoutGroupHeader {
+	CLEAR: both; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: silver; TEXT-ALIGN: center
+}
+#galaziosPicker {
+	BACKGROUND-COLOR: #99ccff
+}
+#PIOgalaziosPicker {
+	BACKGROUND-COLOR: #99ccff
+}
+#Details {
+	BACKGROUND-COLOR: fuchsia
+}
